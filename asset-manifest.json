@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-stack-practice-1/static/css/main.cdcf2430.css",
+    "main.js": "/mern-stack-practice-1/static/js/main.626903f5.js",
+    "index.html": "/mern-stack-practice-1/index.html",
+    "main.cdcf2430.css.map": "/mern-stack-practice-1/static/css/main.cdcf2430.css.map",
+    "main.626903f5.js.map": "/mern-stack-practice-1/static/js/main.626903f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcf2430.css",
+    "static/js/main.626903f5.js"
+  ]
+}
